@@ -63,10 +63,10 @@ p {
 }
 
 .logo {
-    font-size: 24px;
-    font-weight: bold;
+  height: 60px;
+  width: auto;
+  margin-left: 10px;
 }
-
 .nav-links {
     list-style: none;
     display: flex;
